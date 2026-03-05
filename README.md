@@ -11,6 +11,8 @@ A simple and efficient CountDown Timer app built using Kotlin and XML. This app 
 - 🔔 **Interactive Feedback** – Helpful toast notifications for "Time's Up" and status updates.
 
 # 📸 Screenshots
+<img width="377" height="797" alt="home screen" src="https://github.com/user-attachments/assets/3c4824c5-b37e-4cc5-be3e-c2f066f99f6f" />
+<img width="376" height="797" alt="timer" src="https://github.com/user-attachments/assets/48dae204-ab1d-4031-99c3-c95ba7d1bdfb" />
 
 # ⚙️ Tech Stack
 - **Language**: Kotlin
